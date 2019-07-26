@@ -1,1 +1,2 @@
-print(hi you)
+print("hi you sun")
+print(1)
